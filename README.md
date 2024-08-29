@@ -80,12 +80,14 @@ assign y=~(a|b);
 assign z=~(a^b);
 endmodule
 ```
-**RTL realization Output:**
-![Screenshot 2024-08-29 143354](https://github.com/user-attachments/assets/6bc74222-4b2e-4780-96f5-909f5c785ed3)
-
 
 **RTL**
 ![Screenshot 2024-08-29 143441](https://github.com/user-attachments/assets/10447b25-c7db-4c9b-b292-45b84dbdea1e)
+
+**RTL realization Output:**
+
+![Screenshot 2024-08-29 143354](https://github.com/user-attachments/assets/6bc74222-4b2e-4780-96f5-909f5c785ed3)
+
 
 
 **Result:**
